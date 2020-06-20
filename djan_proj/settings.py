@@ -26,7 +26,7 @@ SECRET_KEY = 'aow^oj6vu2c()3)ctg)qn150d!$fkq)483z(tb1&43v7l!!fwg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://glacial-crag-03055.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['glacial-crag-03055.herokuapp.com','127.0.0.1']
 
 
 # Application definition
