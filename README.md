@@ -1,2 +1,2 @@
 # Django
-Implementing the django basics by Corey Schafer
+Implementing the django basics  by building a blog website 
